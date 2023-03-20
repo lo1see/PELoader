@@ -1,0 +1,8 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  mian.cpp
+F:\Visual Studio\practice\myPEloader\myPEloader\header.h(32,18): warning C4305: “return”: 从“int”到“bool”截断
+F:\Visual Studio\practice\myPEloader\myPEloader\header.h(46,18): warning C4305: “return”: 从“int”到“bool”截断
+F:\Visual Studio\practice\myPEloader\myPEloader\header.h(127,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Visual Studio\practice\myPEloader\myPEloader\header.h(22,9): warning C4101: “VAD”: 未引用的局部变量
+F:\Visual Studio\practice\myPEloader\myPEloader\header.h(209,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  myPEloader.vcxproj -> F:\Visual Studio\practice\myPEloader\Debug\myPEloader.exe
